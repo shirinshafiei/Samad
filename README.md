@@ -74,3 +74,4 @@ Relationships:
 Persons have optional one-to-one relationships with Students and Professors
 DailyMenus have one-to-many relationships with MenuItems
 Orders have one-to-many relationships with OrderItems
+![ER Diagram](diagram.png)
